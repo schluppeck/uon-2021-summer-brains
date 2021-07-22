@@ -4,15 +4,16 @@ denis schluppeck
 
 2021-05-24
 
-this repo contains some tips, tricks and a couple of projects related to finding out what neuroscience at university is like. It was prompted by discussions with a couple of budding scientists (still at high school), who wanted to find out a bit more about doing research.
+this repo contains some tips, tricks and a couple of projects related to finding out what neuroscience at university is like. It was prompted by discussions with a couple of budding scientists (a couple still at high school), who wanted to find out a bit more about doing research.
 
 ## plan
 
 - some julia notebooks and youtube clips to go along with them, explaining 
-  - how to look at brain images
-  - make visual stimuli
-  - plot data
-  - think about designing experiments.
+
+  - how to look at images (in general, and brain images more specifically)
+  - make visual stimuli (inspired by ideas from face-spaces, etc)
+  - think aboug showing images, visualising data, plotting graphs
+  - start thinking about designing experiments to ask (and answer questions)
   - whatever comes up during discussions
 
 ## julia note book stuff
