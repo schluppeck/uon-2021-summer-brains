@@ -54,6 +54,8 @@ I have made a little youtube clip walking through the steps...:
 
 ## make use of the slack
 
+[https://uon2021summer-2sl7364.slack.com/](https://uon2021summer-2sl7364.slack.com/)
+
 It might be a really good idea to talk to each other on the `slack` channel to discuss ideas, where you are getting stuck, what some of the possible solutions might be... it's much easier to learn this stuff in a group
 
 While I am away from e-mail, I will ask if a couple of my PhD students are able to pop onto the slack every now and then to help with generic answers.... (they are most likely to be **matlab** and **python** users, so may not be able to help with **julia** questions, though 😀)
