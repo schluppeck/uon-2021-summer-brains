@@ -35,6 +35,9 @@ I have made a little youtube clip walking through the steps...:
 3. There is a brilliant online course (at MIT), where you can get some tips - https://computationalthinking.mit.edu/Spring21/
 4. maybe especially useful about how to set up the software etc. - https://computationalthinking.mit.edu/Spring21/installation/
 
+## things I mentioned in the youtube clips
+
+- a possible solution for working with audio. In this case actually recording a snippet and saving it out -- but you could adapt to make your own wave-forms and play around [see `audio-demo.jl`](audio-demo.jl)
 
 ## text editor + other things
 
