@@ -59,7 +59,7 @@ I have made a little youtube clip walking through the steps...:
 
 ## make use of the slack
 
-[https://uon2021summer-2sl7364.slack.com/](https://uon2021summer-2sl7364.slack.com/)
+~~https://uon2021summer-2sl7364.slack.com/~~
 
 It might be a really good idea to talk to each other on the `slack` channel to discuss ideas, where you are getting stuck, what some of the possible solutions might be... it's much easier to learn this stuff in a group
 
